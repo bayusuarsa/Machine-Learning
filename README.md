@@ -7,4 +7,5 @@
 
 ## Classification
    1. Brest Cancer
-   2. 
+   2. Fitness
+   3. Sentiment Analaysis using BERT
