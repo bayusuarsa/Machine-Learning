@@ -3,7 +3,7 @@
 
 ## Linear Regression
    1. Survey of Labor and Income Dynamics
-   2. 
+   2. Phone Price
 
 ## Classification
    1. Brest Cancer
