@@ -9,3 +9,4 @@
    1. Brest Cancer
    2. Fitness
    3. Sentiment Analaysis using BERT
+   4. Binary Prediction of Smoker Status using Bio-Signals
